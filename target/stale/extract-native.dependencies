@@ -1,1 +1,0 @@
-([:dependencies ([org.clojure/clojure "1.5.1"] [de.bwaldvogel/liblinear "1.94"])])
